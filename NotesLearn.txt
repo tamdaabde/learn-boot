@@ -1,0 +1,12 @@
+leson 1 : 
+* container and container-fluid,
+* class row inside container class
+*grid system :(lg,md,sm,xs)  12 unit
+- lg   col-lg-(number) [col-lg-4]
+- md   col-md-(number) [col-md-4]
+- sm   col-sm-(number) [col-sm-4]
+- xs   col-xs-(number) [col-xs-4]
+note : if you don't write the class for screen this class tick his prop with after class [col-md =>col-lg]
+===================================
+leson 2 : hidden and visible
+*
